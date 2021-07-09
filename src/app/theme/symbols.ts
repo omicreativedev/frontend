@@ -26,6 +26,7 @@ export interface Theme {
     "--cred": string;
     "--cgreen": string;
     "--button": string;
+    "--avbox": string;
     "--loading": string;
   };
 }
