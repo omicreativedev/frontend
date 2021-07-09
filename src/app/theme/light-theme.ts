@@ -23,6 +23,7 @@ export const lightTheme: Theme = {
     "--cred": "#fe3537",
     "--cgreen": "#19B028",
     "--button": "#0058F7",
+    "--avbox": "#ffffff",
     "--loading": "#777777",
   },
 };
