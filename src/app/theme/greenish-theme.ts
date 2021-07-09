@@ -23,6 +23,7 @@ export const greenishTheme: Theme = {
     "--cred": "#e0245e",
     "--cgreen": "#17BF63",
     "--button": "#03A8BB",
+    "--avbox": "#ffffff",
     "--loading": "#ffffff", 
   },
 };
