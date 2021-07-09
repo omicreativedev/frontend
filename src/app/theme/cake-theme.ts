@@ -23,6 +23,7 @@ export const cakeTheme: Theme = {
     "--cred": "#ff3298",
     "--cgreen": "#69ab4f",
     "--button": "#47205c",
+    "--avbox": "#ffffff",
     "--loading": "#d2a59d",
   },
 };
