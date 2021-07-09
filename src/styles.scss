@@ -1244,7 +1244,7 @@ $green-font-color: #19B028;
   height: 86px;
   width: 86px;
   border-radius: 3px;
-  border: 3px solid white;
+  border: 3px solid var(--avbox) !important;
   margin-left: 15px;
 
   background-size: cover;
